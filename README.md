@@ -16,3 +16,4 @@ Sample website with plenty of files for demos
 
 ##Deployment
 How to deploy
+Adding a line that will be committed only locally
