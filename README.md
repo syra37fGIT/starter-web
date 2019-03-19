@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 Sample website with plenty of files for demos
+
+##Deployment
+How to deploy
