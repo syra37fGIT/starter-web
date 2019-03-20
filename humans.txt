@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Syra Martel @mail.com
 
 # THANKS
 
