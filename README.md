@@ -19,3 +19,6 @@ How to deploy
 Adding a line that will be committed only locally
 Adding a line that will be staged locally
 Adding a line that will not even be staged locally (tracked as modified)
+
+##Copyright
+Me
