@@ -22,3 +22,6 @@ Adding a line that will not even be staged locally (tracked as modified)
 
 ##Copyright
 Me
+
+## Footer
+A footer
