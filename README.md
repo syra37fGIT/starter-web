@@ -22,7 +22,7 @@ Adding a line that will be staged locally
 Adding a line that will not even be staged locally (tracked as modified)
 
 ##Copyright
-Me
+Copyright reserved
 
 ## Footer
 A footer
